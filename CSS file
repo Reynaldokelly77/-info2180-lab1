@@ -1,2 +1,5 @@
 h1 {color: #38B2AC; form 
  font-size: 24px;}
+h2 {color: #5A67D8; form 
+font-size: 21px;}
+p { form font-size:18px;}
