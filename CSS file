@@ -1,9 +1,25 @@
-<<<<<<< HEAD
-h1 {color: #38B2AC; form 
- font-size: 24px;}
-h2 {color: #5A67D8; form 
-font-size: 21px;}
-p { form font-size:18px;}
-=======
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
 
->>>>>>> main
+h2{
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+p{
+    font-size: 18px;
+}h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+h2{
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+p{
+    font-size: 18px;
+}
